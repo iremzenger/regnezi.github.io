@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgb(90, 143, 219);
+    font-size: 24px;
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+ }
+
+.navbar a:hover{
+    background-color: 	rgb(135, 170, 230);
+}
+
+/* TELEFONKAP SAYFASI İÇİN */
+div.gallery {
+    margin-left: 50px; 
+    margin-right: 50px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  } 
+  /* TELEFONKAP SAYFASI İÇİN BİTTİ */
